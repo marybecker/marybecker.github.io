@@ -1,0 +1,52 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  font-family: "Open Sans";
+}
+
+.parallax {
+  /* The image used */
+  background-image: url('rivers.png');
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*
+.bgcl{
+  background-color: #F5F5F5;
+}
+*/
+
+a {
+  color: orange;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: 'Lato';
+  margin-bottom: 20px;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+section {
+  padding: 154px 0 0px;
+}
+
+.navbar-brand {
+  font-family: 'Lato';
+  font-size: 2rem;
+}

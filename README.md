@@ -1,3 +1,3 @@
 # Mapping portfolio
 
-marybecker.github.io
+https://marybecker.github.io/
